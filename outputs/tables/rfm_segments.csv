@@ -1,0 +1,7 @@
+customer_segment,customers,avg_recency_days,avg_orders,avg_customer_revenue,total_revenue,pct_of_revenue
+Loyal Customers,117,14.04,2.00,730.46,85464.00,26.36
+High Value - Inactive,89,46.62,1.56,672.17,59823.14,18.45
+Champions,45,13.80,3.36,1247.27,56127.08,17.31
+Low Engagement,184,49.68,1.05,299.80,55162.68,17.01
+Recent Customers,128,15.54,1.00,364.85,46700.99,14.40
+At Risk,17,42.59,3.47,1232.87,20958.77,6.46
