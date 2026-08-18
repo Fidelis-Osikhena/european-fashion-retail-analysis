@@ -76,7 +76,7 @@ Order totals successfully reconciled between the sales and sales-item tables.
 
 Several important semantic issues were discovered during validation. In particular, `discounted_item_total` behaves as a binary discount indicator rather than a monetary total.
 
-The `salesitems` transaction dates also contained inconsistencies relative to the authoritative sales-level dates, so `sales.sale_date` was used for time-based analysis.
+The `salesitems` transaction dates also contained inconsistencies relative to the authoritative sales-level dates, so `sales.sale_date` was used for time-based analysis. 
 
 ## Executive KPIs
 
